@@ -2,8 +2,15 @@
 Starter Pack R3F with vite and pnpm package manager
 
 
-Included:
-three.js
-react-fiber
-react-drei
-a box
+> Whats Included
+
+- 💡 React Fiber
+- ⚡️ Vite
+- 🛠️ Drei
+- 📦 A box
+- 📐 Three
+
+> How To Run
+- pnpm i
+- pnpm run dev
+
